@@ -18,6 +18,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 
 ## Contents
 
+- [How to Choose the Right Event Tech](#how-to-choose-the-right-event-tech)
 - [Event Intelligence & Analytics](#event-intelligence--analytics)
 - [Event Management Platforms](#event-management-platforms)
 - [Lead Capture & Retrieval](#lead-capture--retrieval)
@@ -30,36 +31,59 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 - [Post-Event & ROI Measurement](#post-event--roi-measurement)
 - [Contributing](#contributing)
 
+## How to Choose the Right Event Tech
+
+- **By company size**: Enterprise teams often need complex permissions, integrations, and global support. Mid-market teams usually prioritize time-to-launch and pricing flexibility.
+- **By budget**: Use a clear split between platform licensing, per-event fees, and add-ons (badging, lead capture, analytics).
+- **By role**: Exhibitors focus on lead capture and ROI. Organizers prioritize registration, exhibitor management, and floor plans. Attendees need networking and agenda tools.
+- **By integration fit**: Ensure CRM, marketing automation, and data warehouse support before committing.
+- **By data quality**: Confirm data ownership, export options, and attribution models.
+- **By implementation speed**: Short timelines favor tools with strong onboarding and templates.
+
 ## Event Intelligence & Analytics
 
-| Tool | Website | Category Focus | Pricing Model |
+| Tool | Website | Description | Pricing Model |
 |:---|:---|:---|:---|
-| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com) | Exhibitor intelligence & pre-show leads | Freemium |
-| Grip | [grip.events](https://www.grip.events) | AI-powered matchmaking insights | Enterprise |
-| Explori | [explori.com](https://www.explori.com) | Event analytics & benchmarking | Enterprise |
-| Bizzabo Analytics | [bizzabo.com](https://www.bizzabo.com) | Event analytics and reporting | Enterprise |
-| EventX Analytics | [eventx.io](https://www.eventx.io) | Event data and performance tracking | Enterprise |
+| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com) | Exhibitor intelligence, event discovery, and pre-show lead insights | Freemium |
+| Grip | [grip.events](https://www.grip.events) | AI matchmaking and behavioral insights for event programs | Enterprise |
+| Explori | [explori.com](https://www.explori.com) | Event feedback, benchmarking, and experience analytics | Enterprise |
+| Bizzabo Analytics | [bizzabo.com](https://www.bizzabo.com) | Event performance dashboards and engagement reporting | Enterprise |
+| EventX Analytics | [eventx.io](https://www.eventx.io) | Event data tracking for hybrid and in-person programs | Enterprise |
+| Splash Insights | [splashthat.com](https://splashthat.com) | Event marketing analytics and performance measurement | Subscription |
+| Swapcard Analytics | [swapcard.com](https://www.swapcard.com) | Engagement and matchmaking analytics for events | Enterprise |
+| Cvent Analytics | [cvent.com](https://www.cvent.com) | Event data reporting and attendee analytics | Enterprise |
+| Certain Analytics | [certain.com](https://www.certain.com) | Event reporting and ROI performance dashboards | Enterprise |
+| Hubilo Analytics | [hubilo.com](https://www.hubilo.com) | Engagement analytics for event programs | Enterprise |
 
 ## Event Management Platforms
 
-| Tool | Website | Category Focus | Pricing Model |
+| Tool | Website | Description | Pricing Model |
 |:---|:---|:---|:---|
-| Cvent | [cvent.com](https://www.cvent.com) | End-to-end event management | Enterprise |
-| Bizzabo | [bizzabo.com](https://www.bizzabo.com) | B2B event platform | Enterprise |
-| Hopin | [hopin.com](https://www.hopin.com) | Event management for in-person and virtual | Enterprise |
-| Swapcard | [swapcard.com](https://www.swapcard.com) | Event management and community | Enterprise |
-| Eventbrite | [eventbrite.com](https://www.eventbrite.com) | Ticketing and event hosting | Usage-based |
-| RainFocus | [rainfocus.com](https://www.rainfocus.com) | Event management suite | Enterprise |
+| Cvent | [cvent.com](https://www.cvent.com) | End-to-end event planning, registration, and venue sourcing | Enterprise |
+| Bizzabo | [bizzabo.com](https://www.bizzabo.com) | B2B event platform with marketing and analytics | Enterprise |
+| Hopin | [hopin.com](https://www.hopin.com) | In-person and virtual event management suite | Enterprise |
+| Swapcard | [swapcard.com](https://www.swapcard.com) | Event management and attendee community | Enterprise |
+| Eventbrite | [eventbrite.com](https://www.eventbrite.com) | Ticketing and event hosting for public events | Usage-based |
+| RainFocus | [rainfocus.com](https://www.rainfocus.com) | Enterprise event planning and orchestration | Enterprise |
+| Whova | [whova.com](https://whova.com) | Event app and management for organizers | Subscription |
+| EventMobi | [eventmobi.com](https://www.eventmobi.com) | Event management and mobile app platform | Subscription |
+| Swoogo | [swoogo.events](https://swoogo.events/) | Event registration and management for teams | Subscription |
+| Aventri | [aventri.com](https://www.aventri.com/) | Event management platform for enterprise teams | Enterprise |
 
 ## Lead Capture & Retrieval
 
-| Tool | Website | Category Focus | Pricing Model |
+| Tool | Website | Description | Pricing Model |
 |:---|:---|:---|:---|
-| iCapture | [icapture.com](https://www.icapture.com) | Lead capture for trade shows | Subscription |
-| Attendify | [attendify.com](https://www.attendify.com) | Lead capture and event apps | Subscription |
-| Cvent LeadCapture | [cvent.com](https://www.cvent.com/en/event-marketing-management/lead-capture-app) | Lead capture app | Enterprise |
-| CompuSystems | [compusystems.com](https://www.compusystems.com) | Lead retrieval services | Enterprise |
-| Lead Liaison | [leadliaison.com](https://www.leadliaison.com) | Event lead capture and CRM | Subscription |
+| iCapture | [icapture.com](https://www.icapture.com) | Trade show lead capture app with badge scanning | Subscription |
+| Attendify | [attendify.com](https://www.attendify.com) | Mobile event app with lead capture tools | Subscription |
+| Cvent LeadCapture | [cvent.com](https://www.cvent.com/en/event-marketing-management/lead-capture-app) | Badge scanning and lead capture for events | Enterprise |
+| CompuSystems | [compusystems.com](https://www.compusystems.com) | Lead retrieval services for exhibitors | Enterprise |
+| Lead Liaison | [leadliaison.com](https://www.leadliaison.com) | Lead capture with CRM and marketing automation | Subscription |
+| Akkroo | [akkroo.com](https://www.akkroo.com) | GDPR-friendly lead capture for events | Subscription |
+| atEvent | [atevent.com](https://www.atevent.com) | Event lead capture app with badge scanning | Subscription |
+| LeadsRetriever | [leadsretriever.com](https://www.leadsretriever.com) | Lead capture app for trade shows | Subscription |
+| iCapture Offline | [icapture.com](https://www.icapture.com) | Offline lead capture with automatic sync | Subscription |
+| Expo Genie | [expogenie.com](https://www.expogenie.com) | Event lead capture and analytics | Subscription |
 
 ## Exhibitor Management
 
