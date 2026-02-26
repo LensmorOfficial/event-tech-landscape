@@ -157,13 +157,16 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new tools or updates.
 
-## Lensmor CTA
-
-Lensmor helps B2B teams discover the right trade shows, analyze exhibitors, and generate qualified leads. Learn more at [lensmor.com](https://www.lensmor.com/).
-
 ## About Lensmor
 
-Lensmor is an AI-native event intelligence platform for discovering trade shows, analyzing exhibitors, and generating qualified B2B leads.
+[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
+
+## More Open Source from Lensmor
+
+- [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — Curated list of 100+ trade shows across 15 industries
+- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
+- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
+- [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
 
 ## License
 
