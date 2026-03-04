@@ -21,6 +21,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 - [How to Choose the Right Event Tech](#how-to-choose-the-right-event-tech)
 - [Event Intelligence & Analytics](#event-intelligence--analytics)
 - [Event Management Platforms](#event-management-platforms)
+- [Open Source Event Platforms](#open-source-event-platforms)
 - [Lead Capture & Retrieval](#lead-capture--retrieval)
 - [Exhibitor Management](#exhibitor-management)
 - [Event Marketing & Promotion](#event-marketing--promotion)
@@ -71,6 +72,18 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | Aventri | [aventri.com](https://www.aventri.com/) | Event management platform for enterprise teams | Enterprise |
 | EventsAIR | [eventsair.com](https://www.eventsair.com) | Event management and registration platform | Enterprise |
 | Stova | [stova.io](https://stova.io) | Enterprise event platform and services | Enterprise |
+
+## Open Source Event Platforms
+
+| Tool | Website | Description | Stars |
+|:---|:---|:---|:---|
+| Attendize | [github.com/Attendize/Attendize](https://github.com/Attendize/Attendize) | Open-source ticketing and event management platform (Laravel) | 4,235 |
+| Hi.Events | [github.com/HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) | Open-source event management and ticketing | 3,570 |
+| pretix | [github.com/pretix/pretix](https://github.com/pretix/pretix) | Conference and trade show ticketing system (Python) | 2,334 |
+| eventyay | [github.com/fossasia/eventyay](https://github.com/fossasia/eventyay) | Event management, ticketing, and video | 1,592 |
+| alf.io | [github.com/alfio-event/alf.io](https://github.com/alfio-event/alf.io) | Conference and exhibition ticketing (Java) | 1,565 |
+| osem | [github.com/openSUSE/osem](https://github.com/openSUSE/osem) | FOSS conference and event management | 911 |
+| gathio | [github.com/lowercasename/gathio](https://github.com/lowercasename/gathio) | Lightweight event page builder | 436 |
 
 ## Lead Capture & Retrieval
 
