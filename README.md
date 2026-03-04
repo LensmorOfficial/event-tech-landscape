@@ -69,6 +69,8 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | EventMobi | [eventmobi.com](https://www.eventmobi.com) | Event management and mobile app platform | Subscription |
 | Swoogo | [swoogo.events](https://swoogo.events/) | Event registration and management for teams | Subscription |
 | Aventri | [aventri.com](https://www.aventri.com/) | Event management platform for enterprise teams | Enterprise |
+| EventsAIR | [eventsair.com](https://www.eventsair.com) | Event management and registration platform | Enterprise |
+| Stova | [stova.io](https://stova.io) | Enterprise event platform and services | Enterprise |
 
 ## Lead Capture & Retrieval
 
@@ -84,6 +86,9 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | LeadsRetriever | [leadsretriever.com](https://www.leadsretriever.com) | Lead capture app for trade shows | Subscription |
 | iCapture Offline | [icapture.com](https://www.icapture.com) | Offline lead capture with automatic sync | Subscription |
 | Expo Genie | [expogenie.com](https://www.expogenie.com) | Event lead capture and analytics | Subscription |
+| Leadature | [leadature.com](https://leadature.com) | Lead capture and badge scanning for exhibitors | Subscription |
+| OpenWater | [getopenwater.com](https://www.getopenwater.com) | Application and registration management for programs | Subscription |
+| iLeads+ | [ileads.com](https://www.ileads.com) | Badge scanning and lead capture for exhibitors | Enterprise |
 
 ## Exhibitor Management
 
@@ -131,8 +136,10 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | Cvent Registration | [cvent.com](https://www.cvent.com) | Event registration | Enterprise |
 | Expo Logic | [expologic.com](https://expologic.com) | Registration and check-in | Enterprise |
 | Event Farm | [eventfarm.com](https://eventfarm.com) | Registration and badging | Enterprise |
+| GEVME | [gevme.com](https://www.gevme.com) | Event registration and ticketing | Subscription |
 | Tito | [ti.to](https://ti.to) | Ticketing and registration | Usage-based |
 | Eventbrite | [eventbrite.com](https://www.eventbrite.com) | Registration and ticketing | Usage-based |
+| Stova Registration | [stova.io](https://stova.io) | Registration, ticketing, and attendee management | Enterprise |
 
 ## Floor Plan & Venue Tech
 
@@ -142,6 +149,8 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | Map Your Show | [mapyourshow.com](https://www.mapyourshow.com) | Floor plans and exhibitor listing | Enterprise |
 | Social Tables | [socialtables.com](https://www.socialtables.com) | Venue mapping and event diagramming | Enterprise |
 | AllSeated | [allseated.com](https://www.allseated.com) | 3D floor plans and layouts | Enterprise |
+| CadmiumCD | [cadmiumcd.com](https://www.cadmiumcd.com) | Event app, lead capture, and onsite tools | Enterprise |
+| EXPOCAD | [expocad.com](https://www.expocad.com) | Floor plan design and exhibitor mapping | Enterprise |
 
 ## Post-Event & ROI Measurement
 
