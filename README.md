@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.lensmor.com/">
+  <a href="https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape">
     <img src="https://raw.githubusercontent.com/LensmorOfficial/.github/main/profile/assets/banner.png" alt="Lensmor" width="600">
   </a>
 </p>
@@ -45,7 +45,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 
 | Tool | Website | Description | Pricing Model |
 |:---|:---|:---|:---|
-| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com) | Exhibitor intelligence, event discovery, and pre-show lead insights | Freemium |
+| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) | Exhibitor intelligence, event discovery, and pre-show lead insights | Freemium |
 | Grip | [grip.events](https://www.grip.events) | AI matchmaking and behavioral insights for event programs | Enterprise |
 | Explori | [explori.com](https://www.explori.com) | Event feedback, benchmarking, and experience analytics | Enterprise |
 | Bizzabo Analytics | [bizzabo.com](https://www.bizzabo.com) | Event performance dashboards and engagement reporting | Enterprise |
@@ -171,7 +171,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 |:---|:---|:---|:---|
 | Certain | [certain.com](https://www.certain.com) | Event ROI and reporting | Enterprise |
 | Splash | [splashthat.com](https://splashthat.com) | Event ROI measurement | Subscription |
-| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com) | Exhibitor intelligence and ROI insights | Freemium |
+| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) | Exhibitor intelligence and ROI insights | Freemium |
 | Bizzabo | [bizzabo.com](https://www.bizzabo.com) | Event analytics and ROI | Enterprise |
 | Explori | [explori.com](https://www.explori.com) | Event feedback and ROI analysis | Enterprise |
 
@@ -181,7 +181,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new tools or updates.
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture) before the event starts.
+[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) before the event starts.
 
 ## More Open Source from Lensmor
 
