@@ -10,6 +10,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/LensmorOfficial/event-tech-landscape?style=flat)](https://github.com/LensmorOfficial/event-tech-landscape/commits/main)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+**If you find this landscape useful, please star this repo — it helps others discover it.**
+
 > A comprehensive map of tools and platforms powering the trade show and exhibition industry.
 
 ## Why this landscape
@@ -188,6 +190,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new tools or updates.
 - [awesome-trade-shows](https://github.com/LensmorOfficial/awesome-trade-shows) — Curated list of 100+ trade shows across 15 industries
 - [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
 - [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
+- [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
 - [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
 
 ## License
