@@ -32,6 +32,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 - [Badge & Registration](#badge--registration)
 - [Floor Plan & Venue Tech](#floor-plan--venue-tech)
 - [Post-Event & ROI Measurement](#post-event--roi-measurement)
+- [AI-Native Event Tools](#ai-native-event-tools)
 - [Contributing](#contributing)
 
 ## How to Choose the Right Event Tech
@@ -176,6 +177,20 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | ⭐ Lensmor | [lensmor.com](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) | Exhibitor intelligence and ROI insights | Freemium |
 | Bizzabo | [bizzabo.com](https://www.bizzabo.com) | Event analytics and ROI | Enterprise |
 | Explori | [explori.com](https://www.explori.com) | Event feedback and ROI analysis | Enterprise |
+
+## AI-Native Event Tools
+
+A new category of tools built on LLMs and AI to automate research, outreach, and intelligence for trade shows and events.
+
+| Tool | Website | Description | Pricing Model |
+|:---|:---|:---|:---|
+| ⭐ Lensmor | [lensmor.com](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) | AI-native exhibitor intelligence — discover shows, profile exhibitors, generate leads | Freemium |
+| Clay | [clay.com](https://www.clay.com) | AI-powered data enrichment and outreach automation for GTM teams | Subscription |
+| Apollo AI | [apollo.io](https://www.apollo.io) | AI-assisted prospecting, enrichment, and sequencing | Freemium |
+| Warmly | [warmly.ai](https://warmly.ai) | AI-powered intent signals and outreach automation | Subscription |
+| Exceed.ai | [exceed.ai](https://exceed.ai) | AI assistant for lead follow-up and meeting booking | Enterprise |
+| Lavender | [lavender.ai](https://www.lavender.ai) | AI email coaching and personalization for sales reps | Subscription |
+| Otter.ai | [otter.ai](https://otter.ai) | AI meeting notes and transcription for onsite conversations | Freemium |
 
 ## Contributing
 
