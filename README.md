@@ -209,6 +209,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new tools or updates.
 - [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
 - [trade-show-skills](https://github.com/LensmorOfficial/trade-show-skills) — AI-powered Claude Code skills for trade show automation
 - [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
+- [API-Doc](https://github.com/LensmorOfficial/API-Doc?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) — Lensmor REST API documentation for developers building on trade show and exhibitor data
 
 ## License
 
