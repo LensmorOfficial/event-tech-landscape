@@ -198,7 +198,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit new tools or updates.
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (uncovering [hidden competitors](https://www.lensmor.com/blog/hidden-competitors-trade-shows?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) before the event starts.
+[Lensmor](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape) before the event starts.
 
 **[Try Lensmor Free →](https://www.lensmor.com/?utm_source=github&utm_medium=readme&utm_campaign=event-tech-landscape)**
 
