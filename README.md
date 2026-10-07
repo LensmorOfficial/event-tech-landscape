@@ -75,6 +75,7 @@ The event tech ecosystem is evolving quickly. B2B teams need a clear map of tool
 | Aventri | [aventri.com](https://www.aventri.com/) | Event management platform for enterprise teams | Enterprise |
 | EventsAIR | [eventsair.com](https://www.eventsair.com) | Event management and registration platform | Enterprise |
 | Stova | [stova.io](https://stova.io) | Enterprise event platform and services | Enterprise |
+| Connections | [connections.icu](https://connections.icu) | Event pages and ticketing with a built-in contact CRM, digital business card and imports from Eventbrite, Luma or Meetup | Freemium |
 
 ## Open Source Event Platforms
 
